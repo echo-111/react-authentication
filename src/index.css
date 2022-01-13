@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-size: 18px;
+    font-family: -apple-system, "system-ui", Roboto, Helvetica, sans-serif;
+}
+  
+* {
+    box-sizing: border-box;
+}
